@@ -53,6 +53,6 @@ The complete list of variables of each feature vector is available in 'features.
 
 #Units
 ------
-*The acceleration signal from the smartphone accelerometer X/Y/Z axis in standard gravity units 'g'
-*The angular velocity vector units are radians/second. 
++ The acceleration signal from the smartphone accelerometer X/Y/Z axis in standard gravity units 'g'
++ The angular velocity vector units are radians/second. 
 
